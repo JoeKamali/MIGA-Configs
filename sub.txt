@@ -32,3 +32,13 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443?encryption=none
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCflJIgTW9yZSBDb25maWcgaW4gVC5tZS9NaWdhVjJyYXkiLA0KICAiYWRkIjogImhndHJvamFuLnphYmMubmV0IiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhndHJvamFuLnphYmMubmV0IiwNCiAgInBhdGgiOiAiL2U2Mzk1YzIwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImhndHJvamFuLnphYmMubmV0IiwNCiAgImFscG4iOiAiIg0KfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRnFaSDFjSXc1alBSQ2hXeGxYMzZG@62.133.63.154:20255#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.130:443?encryption=none&security=tls&type=ws&path=%2Fhormoz#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443?encryption=none&security=tls&type=ws&path=%2Fhormoz#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.90:443?encryption=none&security=tls&type=ws&path=%2Fhormoz#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&type=tcp&headerType=none#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vless://be2d41c0-50d5-49f8-d309-f6fd923063f7@75.102.51.220:443?encryption=none&security=tls&type=ws&path=%2Fustc_dysen_20206#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCflJIgTW9yZSBDb25maWcgaW4gVC5tZS9NaWdhVjJyYXkiLA0KICAiYWRkIjogIngubXItcGlua21hbi5ibHVlIiwNCiAgInBvcnQiOiAiMjAzNjMiLA0KICAiaWQiOiAiNDgwZWExZTEtZjEwOS00MDJmLWI3NjMtY2M2ZmRkNGU5ZDE2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.167:443?encryption=none&security=tls&type=ws&path=%2Fhormoz#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443?encryption=none&security=tls&type=ws&path=%2Fhormoz#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
